@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/majorproject/static/css/main.5101ed2b.css",
+    "main.js": "/majorproject/static/js/main.43358aa4.js",
+    "static/media/bgVideo.mp4": "/majorproject/static/media/bgVideo.fdf742692edbf211f1d3.mp4",
+    "static/media/bg.png": "/majorproject/static/media/bg.49f8a8a9d57c937d0191.png",
+    "static/media/winnerSound.mp3": "/majorproject/static/media/winnerSound.827b9924b98a25b1e564.mp3",
+    "static/media/audio00.mp3": "/majorproject/static/media/audio00.7e1fbc5b7ab8deec0395.mp3",
+    "static/media/winIcon.png": "/majorproject/static/media/winIcon.2681e458e2b871df5e10.png",
+    "static/media/gameIcon.png": "/majorproject/static/media/gameIcon.d8e5a210b8e8c3b349af.png",
+    "static/media/winBanner.png": "/majorproject/static/media/winBanner.ca6a865453aa2a450256.png",
+    "static/media/tick.png": "/majorproject/static/media/tick.33265c2a72f8016d45a5.png",
+    "static/media/rulesIcon.png": "/majorproject/static/media/rulesIcon.069e63131a558184e842.png",
+    "static/media/rules.png": "/majorproject/static/media/rules.d37ad40406030288a902.png",
+    "static/media/play.png": "/majorproject/static/media/play.3faf03afa1b6253ca246.png",
+    "index.html": "/majorproject/index.html",
+    "main.5101ed2b.css.map": "/majorproject/static/css/main.5101ed2b.css.map",
+    "main.43358aa4.js.map": "/majorproject/static/js/main.43358aa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5101ed2b.css",
+    "static/js/main.43358aa4.js"
+  ]
+}
