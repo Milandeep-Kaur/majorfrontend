@@ -569,7 +569,9 @@ useEffect(() => {
 //----------------------------------------------------------------------------------------------------
 
     // Initialize socket connection
-    socket.current = io('http://localhost:5000');
+    // socket.current = io('http://localhost:5000');
+    const socket = io("https://doodle-backend.onrender.com");
+
 
     // Join room with the id 
     socket.current.emit('joinroom', { name, roomId });
